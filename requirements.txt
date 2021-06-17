@@ -1,0 +1,3 @@
+Faker==6.6.0
+requests==2.25.1
+playwright==1.12.0
